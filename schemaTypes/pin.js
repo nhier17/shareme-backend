@@ -13,12 +13,7 @@ export default {
             title: 'About',
             type:'string'
         },
-        {
-            name: 'destination',
-            title: 'Destination',
-            type: 'url'
-        },
-        {
+             {
             name: 'category',
             title: 'Category',
             type: 'string'
